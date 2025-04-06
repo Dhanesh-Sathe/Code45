@@ -1,0 +1,776 @@
+{
+  "6": [
+    {
+      "id": "6_math_1",
+      "subject": "Mathematics",
+      "question": "What is the value of 7 × 8?",
+      "options": ["54", "56", "58", "60"],
+      "correctAnswer": "56",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "6_sci_1",
+      "subject": "Science",
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "correctAnswer": "Mars",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "6_eng_1",
+      "subject": "Engineering",
+      "question": "What simple machine is a seesaw an example of?",
+      "options": ["Pulley", "Lever", "Inclined Plane", "Wheel and Axle"],
+      "correctAnswer": "Lever",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "6_tech_1",
+      "subject": "Technology",
+      "question": "Which device is used to input text into a computer?",
+      "options": ["Monitor", "Mouse", "Keyboard", "Printer"],
+      "correctAnswer": "Keyboard",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "6_math_2",
+      "subject": "Mathematics",
+      "question": "What is the perimeter of a square with side length 5 cm?",
+      "options": ["10 cm", "15 cm", "20 cm", "25 cm"],
+      "correctAnswer": "20 cm",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "6_sci_2",
+      "subject": "Science",
+      "question": "What is the process by which plants make their own food?",
+      "options": ["Respiration", "Photosynthesis", "Transpiration", "Germination"],
+      "correctAnswer": "Photosynthesis",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "6_eng_2",
+      "subject": "Engineering",
+      "question": "Which of the following is a renewable source of energy?",
+      "options": ["Coal", "Petroleum", "Wind", "Natural Gas"],
+      "correctAnswer": "Wind",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "6_tech_2",
+      "subject": "Technology",
+      "question": "Which of these is an output device?",
+      "options": ["Keyboard", "Mouse", "Monitor", "Scanner"],
+      "correctAnswer": "Monitor",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "6_math_3",
+      "subject": "Mathematics",
+      "question": "What is the least common multiple (LCM) of 4 and 6?",
+      "options": ["8", "12", "16", "24"],
+      "correctAnswer": "12",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "6_sci_3",
+      "subject": "Science",
+      "question": "Which gas do humans exhale during respiration?",
+      "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+      "correctAnswer": "Carbon Dioxide",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "6_eng_3",
+      "subject": "Engineering",
+      "question": "What is the main function of a bridge in civil engineering?",
+      "options": ["To generate electricity", "To connect two points over an obstacle", "To store water", "To control traffic"],
+      "correctAnswer": "To connect two points over an obstacle",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "6_tech_3",
+      "subject": "Technology",
+      "question": "Which programming language is known for its use in web development?",
+      "options": ["Python", "JavaScript", "C++", "Java"],
+      "correctAnswer": "JavaScript",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "6_math_4",
+      "subject": "Mathematics",
+      "question": "If a rectangle's length is 10 cm and width is 4 cm, what is its area?",
+      "options": ["30 cm²", "40 cm²", "50 cm²", "60 cm²"],
+      "correctAnswer": "40 cm²",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "6_sci_4",
+      "subject": "Science",
+      "question": "What is the boiling point of water at standard atmospheric pressure?",
+      "options": ["50°C", "90°C", "100°C", "120°C"],
+      "correctAnswer": "100°C",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "6_eng_4",
+      "subject": "Engineering",
+      "question": "Which is the main material used in making modern airplane bodies?",
+      "options": ["Wood", "Steel", "Aluminum", "Plastic"],
+      "correctAnswer": "Aluminum",
+      "difficulty": "Hard"
+    }
+  ],
+  "7": [
+    {
+      "id": "7_math_1",
+      "subject": "Mathematics",
+      "question": "What is 144 ÷ 12?",
+      "options": ["10", "12", "14", "16"],
+      "correctAnswer": "12",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "7_sci_1",
+      "subject": "Science",
+      "question": "What is the unit of force?",
+      "options": ["Joule", "Newton", "Pascal", "Watt"],
+      "correctAnswer": "Newton",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "7_eng_1",
+      "subject": "Engineering",
+      "question": "Which of the following is used to measure temperature accurately?",
+      "options": ["Thermometer", "Barometer", "Altimeter", "Calorimeter"],
+      "correctAnswer": "Thermometer",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "7_tech_1",
+      "subject": "Technology",
+      "question": "What does \"CPU\" stand for?",
+      "options": ["Central Processing Unit", "Central Programming Unit", "Control Processing Unit", "Computer Processing Unit"],
+      "correctAnswer": "Central Processing Unit",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "7_math_2",
+      "subject": "Mathematics",
+      "question": "What is the square root of 81?",
+      "options": ["9", "8", "7", "6"],
+      "correctAnswer": "9",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "7_sci_2",
+      "subject": "Science",
+      "question": "What is chlorophyll responsible for in plants?",
+      "options": ["Absorbing water", "Photosynthesis", "Respiration", "Growth"],
+      "correctAnswer": "Photosynthesis",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "7_eng_2",
+      "subject": "Engineering",
+      "question": "What type of energy is stored in a stretched rubber band?",
+      "options": ["Kinetic energy", "Potential energy", "Thermal energy", "Electrical energy"],
+      "correctAnswer": "Potential energy",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "7_tech_2",
+      "subject": "Technology",
+      "question": "Which of these is an example of an operating system?",
+      "options": ["MS Word", "Windows", "Chrome", "WhatsApp"],
+      "correctAnswer": "Windows",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "7_math_3",
+      "subject": "Mathematics",
+      "question": "What is the value of π (pi) approximately?",
+      "options": ["2.14", "3.14", "4.13", "1.41"],
+      "correctAnswer": "3.14",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "7_sci_3",
+      "subject": "Science",
+      "question": "Which organ purifies blood in the human body?",
+      "options": ["Heart", "Lungs", "Kidney", "Brain"],
+      "correctAnswer": "Kidney",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "7_eng_3",
+      "subject": "Engineering",
+      "question": "What is the function of gears in machines?",
+      "options": ["Convert light to electricity", "Change speed or direction of motion", "Store data", "Absorb shock"],
+      "correctAnswer": "Change speed or direction of motion",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "7_tech_3",
+      "subject": "Technology",
+      "question": "HTML is used for?",
+      "options": ["Styling apps", "Writing emails", "Web page structure", "Image editing"],
+      "correctAnswer": "Web page structure",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "7_math_4",
+      "subject": "Mathematics",
+      "question": "Solve for x: 2x + 3 = 11",
+      "options": ["3", "4", "5", "6"],
+      "correctAnswer": "4",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "7_sci_4",
+      "subject": "Science",
+      "question": "What is the chemical formula of water?",
+      "options": ["CO2", "O2", "H2O", "HO2"],
+      "correctAnswer": "H2O",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "7_eng_4",
+      "subject": "Engineering",
+      "question": "What is the main purpose of a circuit breaker?",
+      "options": ["To generate power", "To cut off electricity in case of overload", "To increase voltage", "To convert AC to DC"],
+      "correctAnswer": "To cut off electricity in case of overload",
+      "difficulty": "Hard"
+    }
+  ],
+  "8": [
+    {
+      "id": "8_math_1",
+      "subject": "Mathematics",
+      "question": "What is the square root of 49?",
+      "options": ["6", "7", "8", "5"],
+      "correctAnswer": "7",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "8_sci_1",
+      "subject": "Science",
+      "question": "What gas do plants absorb from the air?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "correctAnswer": "Carbon Dioxide",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "8_eng_1",
+      "subject": "Engineering",
+      "question": "What simple machine is used in a seesaw?",
+      "options": ["Pulley", "Lever", "Wedge", "Screw"],
+      "correctAnswer": "Lever",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "8_tech_1",
+      "subject": "Technology",
+      "question": "Which device is used to type text into a computer?",
+      "options": ["Mouse", "Scanner", "Keyboard", "Monitor"],
+      "correctAnswer": "Keyboard",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "8_math_2",
+      "subject": "Mathematics",
+      "question": "What is 25% of 80?",
+      "options": ["10", "15", "20", "25"],
+      "correctAnswer": "20",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "8_sci_2",
+      "subject": "Science",
+      "question": "Which organ pumps blood in the human body?",
+      "options": ["Brain", "Lungs", "Heart", "Kidney"],
+      "correctAnswer": "Heart",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "8_eng_2",
+      "subject": "Engineering",
+      "question": "Which type of energy is stored in a stretched rubber band?",
+      "options": ["Thermal", "Kinetic", "Potential", "Electrical"],
+      "correctAnswer": "Potential",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "8_tech_2",
+      "subject": "Technology",
+      "question": "What does \"Wi-Fi\" enable a device to do?",
+      "options": ["Print documents", "Connect to the internet", "Store data", "Play music"],
+      "correctAnswer": "Connect to the internet",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "8_math_3",
+      "subject": "Mathematics",
+      "question": "Solve: 3(x – 2) = 9",
+      "options": ["3", "4", "5", "x = 5"],
+      "correctAnswer": "x = 5",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "8_sci_3",
+      "subject": "Science",
+      "question": "Which part of the plant makes food?",
+      "options": ["Root", "Stem", "Leaf", "Flower"],
+      "correctAnswer": "Leaf",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "8_eng_3",
+      "subject": "Engineering",
+      "question": "What material is commonly used to insulate wires?",
+      "options": ["Copper", "Plastic", "Steel", "Rubber"],
+      "correctAnswer": "Plastic",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "8_tech_3",
+      "subject": "Technology",
+      "question": "Which of the following is a search engine?",
+      "options": ["Facebook", "Google", "Instagram", "WhatsApp"],
+      "correctAnswer": "Google",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "8_math_4",
+      "subject": "Mathematics",
+      "question": "What is the area of a rectangle with length 10 cm and breadth 5 cm?",
+      "options": ["50 cm²", "25 cm²", "15 cm²", "60 cm²"],
+      "correctAnswer": "50 cm²",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "8_sci_4",
+      "subject": "Science",
+      "question": "What is the chemical symbol for water?",
+      "options": ["H2O", "O2", "CO2", "H2"],
+      "correctAnswer": "H2O",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "8_eng_4",
+      "subject": "Engineering",
+      "question": "What does a thermometer measure?",
+      "options": ["Weight", "Temperature", "Speed", "Volume"],
+      "correctAnswer": "Temperature",
+      "difficulty": "Hard"
+    }
+  ],
+  "9": [
+    {
+      "id": "9_math_1",
+      "subject": "Mathematics",
+      "question": "What is the square of 12?",
+      "options": ["124", "144", "132", "142"],
+      "correctAnswer": "144",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "9_sci_1",
+      "subject": "Science",
+      "question": "What is the SI unit of electric current?",
+      "options": ["Volt", "Ampere", "Ohm", "Watt"],
+      "correctAnswer": "Ampere",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "9_eng_1",
+      "subject": "Engineering",
+      "question": "Which tool is used for tightening nuts and bolts?",
+      "options": ["Hammer", "Spanner", "Screwdriver", "Drill"],
+      "correctAnswer": "Spanner",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "9_tech_1",
+      "subject": "Technology",
+      "question": "Which language is commonly used for Android app development?",
+      "options": ["Swift", "Kotlin", "C", "JavaScript"],
+      "correctAnswer": "Kotlin",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "9_math_2",
+      "subject": "Mathematics",
+      "question": "If (x + 2)(x – 2) = 0, what are the roots?",
+      "options": ["0, 2", "–2, 2", "2, 4", "–1, 2"],
+      "correctAnswer": "–2, 2",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "9_sci_2",
+      "subject": "Science",
+      "question": "What is Newton’s Third Law?",
+      "options": ["F = ma", "Action = Reaction", "Energy = Mass × c²", "Every object continues in motion"],
+      "correctAnswer": "Action = Reaction",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "9_eng_2",
+      "subject": "Engineering",
+      "question": "Which material is best suited for electrical wires?",
+      "options": ["Plastic", "Copper", "Wood", "Rubber"],
+      "correctAnswer": "Copper",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "9_tech_2",
+      "subject": "Technology",
+      "question": "What is the purpose of a database?",
+      "options": ["Process images", "Store and manage data", "Control robots", "Connect networks"],
+      "correctAnswer": "Store and manage data",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "9_math_3",
+      "subject": "Mathematics",
+      "question": "Solve: 3x² + 5x – 2 = 0",
+      "options": ["–1, 2/3", "2, –3", "–2, 1", "0, –1"],
+      "correctAnswer": "–1, 2/3",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "9_sci_3",
+      "subject": "Science",
+      "question": "What is the main component of natural gas?",
+      "options": ["Propane", "Butane", "Methane", "Ethane"],
+      "correctAnswer": "Methane",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "9_eng_3",
+      "subject": "Engineering",
+      "question": "What is the function of a transistor?",
+      "options": ["Storage", "Switching/Amplifying signals", "Power generation", "Insulation"],
+      "correctAnswer": "Switching/Amplifying signals",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "9_tech_3",
+      "subject": "Technology",
+      "question": "What is an API used for?",
+      "options": ["Storing images", "Coding games", "Interacting between software systems", "Compressing files"],
+      "correctAnswer": "Interacting between software systems",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "9_math_4",
+      "subject": "Mathematics",
+      "question": "What is the slope of the line y = 2x + 3?",
+      "options": ["2", "3", "–2", "1"],
+      "correctAnswer": "2",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "9_sci_4",
+      "subject": "Science",
+      "question": "What is the function of mitochondria?",
+      "options": ["Digestion", "Respiration and energy production", "Storage", "Reproduction"],
+      "correctAnswer": "Respiration and energy production",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "9_eng_4",
+      "subject": "Engineering",
+      "question": "What type of bridge uses cables suspended from towers?",
+      "options": ["Arch bridge", "Beam bridge", "Suspension bridge", "Cantilever bridge"],
+      "correctAnswer": "Suspension bridge",
+      "difficulty": "Hard"
+    }
+  ],
+  "10": [
+    {
+      "id": "10_math_1",
+      "subject": "Mathematics",
+      "question": "What is the value of sin(90°)?",
+      "options": ["0", "0.5", "1", "Undefined"],
+      "correctAnswer": "1",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "10_sci_1",
+      "subject": "Science",
+      "question": "Which acid is present in the human stomach?",
+      "options": ["Acetic acid", "Sulfuric acid", "Hydrochloric acid", "Nitric acid"],
+      "correctAnswer": "Hydrochloric acid",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "10_eng_1",
+      "subject": "Engineering",
+      "question": "What does CNC stand for in manufacturing?",
+      "options": ["Central Numeric Control", "Computerized Numeric Control", "Central Node Controller", "Controlled Number Calculator"],
+      "correctAnswer": "Computerized Numeric Control",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "10_tech_1",
+      "subject": "Technology",
+      "question": "Which of the following is not a programming language?",
+      "options": ["Python", "Java", "HTML", "C++"],
+      "correctAnswer": "HTML",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "10_math_2",
+      "subject": "Mathematics",
+      "question": "Solve: x² – 5x + 6 = 0",
+      "options": ["2, 3", "–2, 3", "–3, –2", "1, 6"],
+      "correctAnswer": "2, 3",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "10_sci_2",
+      "subject": "Science",
+      "question": "What is the universal law of gravitation formula?",
+      "options": ["F = G(m₁m₂/r²)", "F = ma", "P = F/A", "E = mc²"],
+      "correctAnswer": "F = G(m₁m₂/r²)",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "10_eng_2",
+      "subject": "Engineering",
+      "question": "What is a common use for CAD software?",
+      "options": ["Writing essays", "Designing mechanical components", "Coding algorithms", "Storing contacts"],
+      "correctAnswer": "Designing mechanical components",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "10_tech_2",
+      "subject": "Technology",
+      "question": "What does IoT stand for?",
+      "options": ["Internet of Transmissions", "Internet of Things", "Integration of Technology", "Interconnected Operating Tech"],
+      "correctAnswer": "Internet of Things",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "10_math_3",
+      "subject": "Mathematics",
+      "question": "What is the distance formula between two points (x₁, y₁) and (x₂, y₂)?",
+      "options": ["√[(x₂–x₁)² + (y₂–y₁)²]", "(x₂+x₁) + (y₂+y₁)", "(x₁–x₂) + (y₁–y₂)", "(x₂–x₁) × (y₂–y₁)"],
+      "correctAnswer": "√[(x₂–x₁)² + (y₂–y₁)²]",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "10_sci_3",
+      "subject": "Science",
+      "question": "What is the pH of neutral water?",
+      "options": ["6", "7", "8", "9"],
+      "correctAnswer": "7",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "10_eng_3",
+      "subject": "Engineering",
+      "question": "What is Ohm’s Law?",
+      "options": ["V = IR", "E = mc²", "F = ma", "V = Q/t"],
+      "correctAnswer": "V = IR",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "10_tech_3",
+      "subject": "Technology",
+      "question": "What does SQL stand for?",
+      "options": ["Sequential Query Logic", "Structured Query Language", "Software Quality Language", "Secure Query Language"],
+      "correctAnswer": "Structured Query Language",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "10_math_4",
+      "subject": "Mathematics",
+      "question": "What is the value of log₁₀(100)?",
+      "options": ["1", "2", "10", "100"],
+      "correctAnswer": "2",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "10_sci_4",
+      "subject": "Science",
+      "question": "What is the atomic number of Oxygen?",
+      "options": ["6", "7", "8", "10"],
+      "correctAnswer": "8",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "10_eng_4",
+      "subject": "Engineering",
+      "question": "In electronics, what is the full form of PCB?",
+      "options": ["Power Circuit Board", "Printed Circuit Board", "Programmable Circuit Box", "Primary Controller Base"],
+      "correctAnswer": "Printed Circuit Board",
+      "difficulty": "Hard"
+    }
+  ],
+  "11": [
+    {
+      "id": "11_math_1",
+      "subject": "Mathematics",
+      "question": "What is the derivative of x²?",
+      "options": ["x", "2x", "x²", "1"],
+      "correctAnswer": "2x",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "11_sci_1",
+      "subject": "Science",
+      "question": "Which subatomic particle has a negative charge?",
+      "options": ["Proton", "Neutron", "Electron", "Nucleus"],
+      "correctAnswer": "Electron",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "11_eng_1",
+      "subject": "Engineering",
+      "question": "What is the primary function of a capacitor?",
+      "options": ["Store electrical energy", "Increase current", "Convert AC to DC", "Reduce voltage"],
+      "correctAnswer": "Store electrical energy",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "11_tech_1",
+      "subject": "Technology",
+      "question": "What does \"HTTP\" stand for?",
+      "options": ["HyperText Transfer Protocol", "High Tech Transmission Process", "Hyperlink Transport Tool Protocol", "Host-to-Host Text Protocol"],
+      "correctAnswer": "HyperText Transfer Protocol",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "11_math_2",
+      "subject": "Mathematics",
+      "question": "Solve: ∫x dx",
+      "options": ["x² + C", "x²/2 + C", "ln(x) + C", "1/x + C"],
+      "correctAnswer": "x²/2 + C",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "11_sci_2",
+      "subject": "Science",
+      "question": "What is the function of hemoglobin in the blood?",
+      "options": ["Clotting", "Fighting infection", "Transporting oxygen", "Digesting proteins"],
+      "correctAnswer": "Transporting oxygen",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "11_eng_2",
+      "subject": "Engineering",
+      "question": "What does Ohm's Law state?",
+      "options": ["V = IR", "F = ma", "E = mc²", "P = VI"],
+      "correctAnswer": "V = IR",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "11_tech_2",
+      "subject": "Technology",
+      "question": "Which language is primarily used for data analysis?",
+      "options": ["HTML", "Python", "Java", "CSS"],
+      "correctAnswer": "Python",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "11_math_3",
+      "subject": "Mathematics",
+      "question": "What is the value of the determinant of matrix [[1,2],[3,4]]?",
+      "options": ["10", "-2", "0", "2"],
+      "correctAnswer": "-2",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "11_sci_3",
+      "subject": "Science",
+      "question": "What is Avogadro’s number?",
+      "options": ["6.02 × 10²³", "9.8 m/s²", "3.14", "1.6 × 10⁻¹⁹"],
+      "correctAnswer": "6.02 × 10²³",
+      "difficulty": "Hard"
+    }
+  ],
+  "12": [
+    {
+      "id": "12_math_1",
+      "subject": "Mathematics",
+      "question": "What is the derivative of sin(x)?",
+      "options": ["cos(x)", "–cos(x)", "tan(x)", "–sin(x)"],
+      "correctAnswer": "cos(x)",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "12_sci_1",
+      "subject": "Science",
+      "question": "What is the role of DNA?",
+      "options": ["Provide energy", "Store genetic information", "Break down food", "Protect the nucleus"],
+      "correctAnswer": "Store genetic information",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "12_eng_1",
+      "subject": "Engineering",
+      "question": "What does a diode allow in a circuit?",
+      "options": ["Current to flow in one direction", "Resistance to increase", "Amplification", "Voltage decrease"],
+      "correctAnswer": "Current to flow in one direction",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "12_tech_1",
+      "subject": "Technology",
+      "question": "Which protocol is used to send emails?",
+      "options": ["FTP", "SMTP", "HTTP", "IP"],
+      "correctAnswer": "SMTP",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "12_math_2",
+      "subject": "Mathematics",
+      "question": "What is the integration of 1/x?",
+      "options": ["x²", "ln|x| + C", "x + C", "e^x + C"],
+      "correctAnswer": "ln|x| + C",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "12_sci_2",
+      "subject": "Science",
+      "question": "What is the pH of a neutral solution?",
+      "options": ["0", "7", "14", "1"],
+      "correctAnswer": "7",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "12_eng_2",
+      "subject": "Engineering",
+      "question": "What is Kirchhoff’s Current Law?",
+      "options": ["Voltage in a loop is zero", "Sum of currents entering a node equals the sum leaving", "Power is conserved", "Current flows from low to high resistance"],
+      "correctAnswer": "Sum of currents entering a node equals the sum leaving",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "12_tech_2",
+      "subject": "Technology",
+      "question": "What is machine learning a subset of?",
+      "options": ["Web Development", "Artificial Intelligence", "Network Security", "Robotics"],
+      "correctAnswer": "Artificial Intelligence",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "12_math_3",
+      "subject": "Mathematics",
+      "question": "What is the limit of (1 + 1/n)ⁿ as n approaches infinity?",
+      "options": ["1", "e", "0", "∞"],
+      "correctAnswer": "e",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "12_sci_3",
+      "subject": "Science",
+      "question": "What is the function of the nephron in the kidney?",
+      "options": ["Pump blood", "Filter blood", "Store urine", "Produce hormones"],
+      "correctAnswer": "Filter blood",
+      "difficulty": "Hard"
+    }
+  ]
+}
