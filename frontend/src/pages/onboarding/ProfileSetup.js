@@ -156,7 +156,11 @@ export default function ProfileSetup() {
             userType,
           });
         }
-        navigate('/learning-style-quiz');
+        if (userType === 'student') {
+          navigate('/learning-style-quiz');
+        } else {
+          navigate('/parent-dashboard');
+        }
       }
     } catch (err) {
       handleError(err);
@@ -664,6 +668,7 @@ export default function ProfileSetup() {
     </div>
   );
 }
+
 
 
 

@@ -98,7 +98,7 @@ export default function Signup() {
       <div className="max-w-md w-full mx-auto bg-white rounded-xl shadow-lg p-8">
         <div className="text-center">
           <h2 className="text-3xl font-extrabold text-gray-900 mb-2">
-            Join EduTech
+            Join EduTrack
           </h2>
           <p className="text-sm text-gray-600 mb-8">
             Start your learning journey today
